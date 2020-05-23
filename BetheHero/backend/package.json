@@ -1,0 +1,36 @@
+{
+  "name": "stack11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server.js",
+    "test": "cross-env NODE_ENV=test jest"
+  },
+  "keywords": [
+    "api",
+    "gateway",
+    "javascript"
+  ],
+  "author": "João Junior",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "celebrate": "^12.1.1",
+    "consign": "^0.1.2",
+    "cors": "^2.8.5",
+    "cross-env": "^7.0.2",
+    "express": "^4.17.1",
+    "express-validator": "^2.20.8",
+    "knex": "^0.20.15",
+    "mysql": "^2.11.1",
+    "restify": "^4.1.1",
+    "soap": "^0.16.0",
+    "sqlite3": "^4.2.0"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1",
+    "nodemon": "^2.0.2",
+    "supertest": "^4.0.2"
+  }
+}
