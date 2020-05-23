@@ -1,3 +1,7 @@
-teste
+Olá!
 
-entender  melhor o git 
+pra minha experiência em criar um aplicativo tive bastante dificuldade em entender alguns paramentros.
+
+porém, pesquisei em vários site e obtive ajuda e consegui fazer uma aplicação completa mesmo não participando da semana.
+
+hoje estou um pouco mais preparado e busca crescer mais e aprender essa linguagem tão maravilhosa JavaScript.
